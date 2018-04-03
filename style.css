@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,500");
 html { height: 100%;}
 body { height: 100%; margin: 0px; font-size: 26px;}
-body, input, textarea { font-family: "Roboto"; color: black; font-weight: 300; background: #ffbd4a; position: relative; margin-left: 40%; margin-top: 10%; width: 100%;}
+body, input, textarea { font-family: "Roboto"; color: black; font-weight: 300; background: #ffbd4a; margin-top: 10%; width: 100%; text-align: center;}
 h1, h2, h3, h4, h5, h6 { margin: 0px; font-weight: 300;}
 p { margin: 0px;}
 ul { padding: 0px;}
+.numbers{display: flex;}
+.bloc{border: 1px solid black; width: 10%; margin-left: 12%; margin-top: 10%;
